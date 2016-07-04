@@ -1,0 +1,27 @@
+.main_block{
+  width:500px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+}
+.main_block ul{
+  text-align: left;
+}
+.main_block p{
+  text-align: left;
+}
+.main_block a{
+  text-align: left;
+}
+.main_block{
+  border: 2px solid #AEACAC;
+  box-shadow: 0 0 8px rgba(0,0,0,0.5);
+  padding: 40px;
+}
+.main_block{
+  background-color: #FFFFFF;
+}
+body{
+  background-attachment: scroll;
+  background-color: #EFEFEF;
+}
